@@ -9,7 +9,7 @@ This page is a short demo. For details, please refer to the notebook.
 The baseline we are comparing here is the DCA strategy, which is the simplest strategy an investor can do (invest a sum of money over a fixed period of time, usually after they receive their pay each month).
 
 ## Developing trading strategy: 
-Trades according to the moving average. Prevents losses during the bear market, but also misses the explosive growth of the bull market. 
+Trades according to the moving average. Reduces losses during the bear market, but also misses the explosive growth of the bull market. 
 <p float="left">
   <img src="Line chart results/phase1_1yr.png" width="45%" />
   <img src="Line chart results/phase1_2yr.png" width="45%" />
