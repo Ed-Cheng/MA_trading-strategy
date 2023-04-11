@@ -10,12 +10,32 @@ The baseline we are comparing here is the DCA strategy, which is the simplest st
 
 ## Developing trading strategy: 
 Trades according to the moving average. Prevents losses during the bear market, but also misses the explosive growth of the bull market. 
+<p float="left">
+  <img src="Line chart results/phase1_1yr.png" width="33%" />
+  <img src="Line chart results/phase1_2yr.png" width="33%" />
+  <img src="Line chart results/phase1_3yr.png" width="33%" />
+</p>
 
 ## Improving the strategy: 
 Switch between DCA and MA trading strategies depending on the bull/bear market. Proven effective. Could improve bull/bear market identification.
+<p float="left">
+  <img src="Line chart results/phase2_1yr.png" width="33%" />
+  <img src="Line chart results/phase2_2yr.png" width="33%" />
+  <img src="Line chart results/phase2_3yr.png" width="33%" />
+</p>
 
 ## Improving bull/bear market identification: 
 A significant improvement has been seen. The next step is to fine-tune the parameters.
+<p float="left">
+  <img src="Line chart results/phase3_1yr.png" width="33%" />
+  <img src="Line chart results/phase3_2yr.png" width="33%" />
+  <img src="Line chart results/phase3_3yr.png" width="33%" />
+</p>
 
 ## Fine-tuning and the final results: 
 Pretty promising findings.
+<p float="left">
+  <img src="Line chart results/tuned_1yr.png" width="33%" />
+  <img src="Line chart results/tuned_2yr.png" width="33%" />
+  <img src="Line chart results/tuned_3yr.png" width="33%" />
+</p>
